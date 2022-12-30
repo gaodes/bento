@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Unraid',
+			icon: 'server',
+			link: 'https://192-168-1-66.62e5271c161ffcc722a531791cae2434435254f6.myunraid.net/',
 		},
 		{
 			id: '2',
