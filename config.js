@@ -99,7 +99,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Cloudflare',
-			icon: 'clouds',
+			icon: 'cloudy',
 			link: 'https://dash.cloudflare.com/',
 		},
 		{
