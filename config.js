@@ -59,7 +59,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Proxmox',
 			icon: 'mail',
 			link: 'https://mail.protonmail.com/',
 		},
