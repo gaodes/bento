@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '45.3050',
-	defaultLongitude: '21.8821',
+	defaultLatitude: '45.291296',
+	defaultLongitude: '21.887073',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'CasaOS',
 			icon: 'home',
-			link: 'https://heimdall.elche.us/',
+			link: 'https://heimdall.inyaface.pro/',
 		},
 		{
 			id: '5',
@@ -104,21 +104,21 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Organizr',
-			icon: 'layers',
-			link: 'https://organizr.elche.us/',
-		},
-		{
-			id: '4',
 			name: 'Overseerr',
 			icon: 'film',
 			link: 'https://request.elche.us/',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: "Anna's Archive",
 			icon: 'book',
 			link: 'https://annas-archive.org/search',
+		},
+		{
+			id: '5',
+			name: 'Organizr',
+			icon: 'layers',
+			link: 'https://organizr.elche.us/',
 		},
 		{
 			id: '6',
