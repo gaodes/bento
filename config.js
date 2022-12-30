@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '0c9ef1fe970f17f939c1e390dcf00e2e', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Home Assistant',
-			icon: 'robot',
+			icon: 'bot',
 			link: 'https://epl49mx5u6oj38y4mw7cgxafozm0iwps.ui.nabu.casa/',
 		},
 	],
@@ -92,39 +92,39 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'GitHub',
+			icon: 'github',
+			link: 'https://github.com/gaodesergiu',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Cloudflare',
+			icon: 'clouds',
+			link: 'https://dash.cloudflare.com/',
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Organizr',
+			icon: 'layers',
+			link: 'https://organizr.elche.us/',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Overseerr',
+			icon: 'film',
+			link: 'https://request.elche.us/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: "Anna's Archive",
+			icon: 'book',
+			link: 'https://annas-archive.org/search',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'ABB',
+			icon: 'headphones',
+			link: 'https://audiobookbay.li/',
 		},
 	],
 
