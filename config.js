@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Proxmox',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'ProxmoxVE',
+			icon: 'network',
+			link: 'https://moxy.elche.us/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Proxmox Backup Server',
+			icon: 'ghost',
+			link: 'https://pmbs.elche.us/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'CasaOS',
+			icon: 'home',
+			link: 'https://heimdall.elche.us/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Portainer Debian-Hades',
+			icon: 'flame',
+			link: 'https://portainer-debian.elche.us/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Home Assistant',
+			icon: 'robot',
+			link: 'https://epl49mx5u6oj38y4mw7cgxafozm0iwps.ui.nabu.casa/',
 		},
 	],
 
